@@ -1,0 +1,10 @@
+journal.db
+*.sqlite-wal
+*.sqlite-shm
+*.db-wal
+*.db-shm
+.octarine/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
